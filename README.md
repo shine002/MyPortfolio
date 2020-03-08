@@ -1,2 +1,1 @@
-# portfolio-template
 My portfolio
